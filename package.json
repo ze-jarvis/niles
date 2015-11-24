@@ -1,0 +1,25 @@
+{
+  "name": "niles",
+  "version": "0.0.0",
+  "description": "Get yourself a real butler for you CI !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ze-jarvis/niles.git"
+  },
+  "keywords": [
+    "continuous",
+    "integration",
+    "niles",
+    "butler"
+  ],
+  "author": "Ze Jarvis",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/ze-jarvis/niles/issues"
+  },
+  "homepage": "https://github.com/ze-jarvis/niles#readme"
+}
